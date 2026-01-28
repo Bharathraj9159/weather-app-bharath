@@ -8,7 +8,7 @@ Users can instantly check the **current weather, hourly updates, and 5-day forec
 ## 🌐 Live Demo
 
 🎯 **View App on CodeSandbox:**  
-👉 [[https://qcqr2v-3000.csb.app/](https://qcqr2v-3000.csb.app/)]
+👉 [[[https://qcqr2v-3000.csb.app/](https://qcqr2v-3000.csb.app/)]](https://ftl2w4-3000.csb.app/)
 
 ---
 
