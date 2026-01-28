@@ -115,6 +115,7 @@ const App = () => {
   };
 
   // ✅ Automatically get location on first load
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     getLocationWeather();
   }, []);
